@@ -6,10 +6,10 @@ from aiogram.types import ContentType
 from aiogram.filters import Command
 import aiohttp
 
-API_TOKEN = "&&&&&&&&&&"
+API_TOKEN = "8106608154:AAH7YdRc57z5G7bZaWh4JXXzpJMr0THcFq8"
 CHANNEL_ID = "@zararli_fayllar"  # Kanalingiz usernameni yoki ID sini kiriting
-FILE_CHECKER_API_URL = "http://&&&&&&&&&.uztan.ru/%%%%%%%/&&&.php"
-URL_CHECKER_API_URL = "http://#$%^%$#$%^.uztan.ru/^^%%/&&&.php"
+FILE_CHECKER_API_URL = "http://shoxruxabdivaxobov.uztan.ru/qwerty1209F/checker.php"
+URL_CHECKER_API_URL = "http://shoxruxabdivaxobov.uztan.ru/qwerty1209F/chechurl.php"
 
 bot = Bot(token=API_TOKEN)
 dp = Dispatcher()
